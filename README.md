@@ -10,5 +10,4 @@ Simple text adventure, written in Rust.
 I did not write it in the smartest way possible,
 instead, I chose to write in such a way that
 a beginner can expand on this.
-
-test2
+TEST33
