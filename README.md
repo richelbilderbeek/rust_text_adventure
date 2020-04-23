@@ -11,3 +11,6 @@ I did not write it in the smartest way possible,
 instead, I chose to write in such a way that
 a beginner can expand on this.
 TEST33
+
+IK BEN BRAM EN IK KAN GIT ZONDER TEKENS
+
